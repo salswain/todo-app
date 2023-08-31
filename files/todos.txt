@@ -1,1 +1,6 @@
-clean
+Learn Python
+Paint Canvas
+Go to the Gym at 2pm
+Walk The Dog
+Add new todo
+Learn Django
